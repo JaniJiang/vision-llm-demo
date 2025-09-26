@@ -77,6 +77,45 @@ image_1 = '/path/to/your/image.png'
 query = "What is in the image?"
 
 print(predict_image(image_1, query))
+
+
+
+
 ---
+
+
+## ⚙️ Installation
+```bash
+git clone https://github.com/YOUR_USERNAME/vision-llm-demo.git
+cd vision-llm-demo
+
+pip install -r requirements.txt
+▶️ Usage
+Place your test image inside the project folder.
+
+Run the script:
+
+bash
+Copy code
+python main.py
+Example output:
+
+vbnet
+Copy code
+🔍 Model Output:
+The image shows a chart with increasing sales from 2020 to 2023.
+📌 Future Work
+Support multiple images in a single query
+
+Add RAG (retrieval-augmented generation) for knowledge grounding
+
+Build a simple web UI (Flask/FastAPI)
+
+Batch process evaluation datasets
+
+yaml
+Copy code
+
+
 
 
