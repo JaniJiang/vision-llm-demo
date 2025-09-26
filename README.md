@@ -77,3 +77,6 @@ image_1 = '/path/to/your/image.png'
 query = "What is in the image?"
 
 print(predict_image(image_1, query))
+---
+
+
