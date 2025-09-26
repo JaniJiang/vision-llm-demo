@@ -107,8 +107,8 @@ The image shows a chart with increasing sales from 2020 to 2023.
 📌 Future Work
 Support multiple images in a single query
 
-Add RAG (retrieval-augmented generation) for knowledge grounding
+- Add RAG (retrieval-augmented generation) for knowledge grounding
 
-Build a simple web UI (Flask/FastAPI)
+- Build a simple web UI (Flask/FastAPI)
 
-Batch process evaluation datasets
+- Batch process evaluation datasets
