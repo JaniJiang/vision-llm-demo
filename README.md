@@ -78,7 +78,7 @@ query = "What is in the image?"
 
 print(predict_image(image_1, query))
 
-
+```
 ---
 
 ## ⚙️ Installation
