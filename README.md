@@ -98,8 +98,6 @@ python main.py
 ```
 Example output:
 
-vbnet
-Copy code
 🔍 Model Output:
 The image shows a chart with increasing sales from 2020 to 2023.
 
