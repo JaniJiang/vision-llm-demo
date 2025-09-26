@@ -3,7 +3,7 @@ Multimodal Image Understanding with LLM
 This project demonstrates a **multimodal pipeline** that integrates image processing and large language models (LLMs).  
 It allows users to **upload an image + ask a textual question**, and the model will generate a response based on both inputs.
 
-multimodal_pipeline
+                                   multimodal image Understanding Pipeline
 <img width="503" height="480" alt="Screenshot 2025-09-26 at 7 09 13 PM" src="https://github.com/user-attachments/assets/b739bc63-3749-41fb-88ef-04c2bdd42031" />
 
 ---
