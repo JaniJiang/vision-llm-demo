@@ -6,7 +6,7 @@ It allows users to **upload an image + ask a textual question**, and the model w
                                    multimodal image Understanding Pipeline
 <img width="503" height="480" alt="Screenshot 2025-09-26 at 7 09 13 PM" src="https://github.com/user-attachments/assets/b739bc63-3749-41fb-88ef-04c2bdd42031" />
 
----
+--- 
 
 Features
 - Convert images to **Base64** for model compatibility
@@ -78,28 +78,29 @@ query = "What is in the image?"
 
 print(predict_image(image_1, query))
 
-Installation
+---
+
+## ⚙️ Installation
+```bash
 git clone https://github.com/YOUR_USERNAME/vision-llm-demo.git
 cd vision-llm-demo
 
 pip install -r requirements.txt
-
 ▶️ Usage
-
 Place your test image inside the project folder.
 
 Run the script:
 
+bash
+Copy code
 python main.py
-
-
 Example output:
 
-Model Output:
+vbnet
+Copy code
+🔍 Model Output:
 The image shows a chart with increasing sales from 2020 to 2023.
-
-Future Work
-
+📌 Future Work
 Support multiple images in a single query
 
 Add RAG (retrieval-augmented generation) for knowledge grounding
