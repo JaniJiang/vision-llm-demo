@@ -1,5 +1,3 @@
-![multimodal_pipeline_vertical](https://github.com/user-attachments/assets/762b99d3-2b39-4e65-94de-b90eddd9cdb6)# vision-llm-demo
-
 A demonstration of an end-to-end **multimodal AI pipeline**.  
 This project integrates **image + text inputs** with a large language model (LLM) to perform vision-language reasoning.  
 
