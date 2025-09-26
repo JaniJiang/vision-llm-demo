@@ -1,6 +1,10 @@
-A demonstration of an end-to-end **multimodal AI pipeline**.  
-This project integrates **image + text inputs** with a large language model (LLM) to perform vision-language reasoning.  
+# 🖼️ Multimodal Image Understanding with LLM
 
+This project demonstrates a **multimodal pipeline** that integrates image processing and large language models (LLMs).  
+It allows users to **upload an image + ask a textual question**, and the model will generate a response based on both inputs.
+
+## 🖼 multimodal_pipeline
+<img width="502" height="457" alt="Screenshot 2025-09-26 at 6 55 41 PM" src="https://github.com/user-attachments/assets/aef25fee-961a-4cb9-844e-e9469d394f64" />
 ---
 
 ## 🚀 Features
@@ -11,8 +15,7 @@ This project integrates **image + text inputs** with a large language model (LLM
 - Includes workflow diagram for clarity
 
 ---
-## 🖼 multimodal_pipeline
-<img width="502" height="457" alt="Screenshot 2025-09-26 at 6 55 41 PM" src="https://github.com/user-attachments/assets/aef25fee-961a-4cb9-844e-e9469d394f64" />
+
 
 ## 📂 Project Structure
 
